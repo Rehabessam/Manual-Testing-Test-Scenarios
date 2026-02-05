@@ -6,7 +6,7 @@
 
 | ID | Test Scenario | Expected Result | Priority |
 |------|----------------|-----------------|------------|
-| WZ-CV-001    | Verify supported CV formats (PDF / DOC / DOCX) are accepted | CV uploaded successfully | High |
+| WZ-CV-001 | Verify supported CV formats (PDF / DOC / DOCX) are accepted | CV uploaded successfully | High |
 | WZ-CV-002 | Verify uppercase/lowercase file extensions are accepted | CV uploaded successfully | Medium |
 | WZ-CV-003 | Verify mixed-case file extensions are accepted | CV uploaded successfully | Medium |
 | WZ-CV-004 | Verify CV file with minimum allowed file size is accepted | CV uploaded successfully | Medium |
@@ -59,7 +59,7 @@
 ## ⚡ Performance Test Scenarios
 
 | ID | Test Scenario | Expected Result | Priority |
-|------|----------------|-----------------|------------|
+|-----------|----------------|-----------------|------------|
 | WZ-CV-034 | Verify upload performance for CV file near 5MB limit | Upload completes within acceptable time | Medium |
 | WZ-CV-035 | Verify system handles multiple users uploading CVs simultaneously | System remains stable and responsive | Medium |
 
