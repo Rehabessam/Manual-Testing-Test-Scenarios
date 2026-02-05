@@ -59,7 +59,7 @@
 ## ⚡ Performance Test Scenarios
 
 | ID | Test Scenario | Expected Result | Priority |
-|-----------|----------------|-----------------|------------|
+|---------------------|----------------|-----------------|------------|
 | WZ-CV-034 | Verify upload performance for CV file near 5MB limit | Upload completes within acceptable time | Medium |
 | WZ-CV-035 | Verify system handles multiple users uploading CVs simultaneously | System remains stable and responsive | Medium |
 
