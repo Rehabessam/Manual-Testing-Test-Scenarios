@@ -1,4 +1,4 @@
-# 🧪 Manual Testing – Test Scenarios Portfolio
+# 🧪 Manual Testing – Test Scenarios 
 
 This repository contains **manual test scenarios** designed for multiple real-world websites.
 The project was created as part of **Manual Testing Basics – Testing Bootcamp**.
